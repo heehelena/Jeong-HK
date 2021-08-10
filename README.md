@@ -1,5 +1,7 @@
-# Jeong-HK
-LikiLion 데이터 분석 학습 기록을 시작으로 추후 코드 및 관련 자료(ex. 보고서, 논문 등) 공유 예정
+# Study Github
+2021.5.31. - 2021.8.13. 멋쟁이사자처럼 K-Digital Training 3기 이수
 
-### 주요 사용 언어
-(soon)
+### Programming Language
+Python
+ - Jupyter Notebook
+ - Colab
